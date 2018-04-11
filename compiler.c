@@ -11,7 +11,7 @@ void run();
 
 int main()
 {
-    printf("Pm0 Compiler\nCOP 3402 Fall 2015\nWritten by Matthew Keeran\nNarrated by Your Roommate's Cat\n");
+    printf("Pm0 Compiler\nWritten by Matthew Keeran\n");
     int halt = 0;
     char cmd[50];
     do
